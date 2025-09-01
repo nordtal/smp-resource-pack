@@ -1,0 +1,40 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "nordtal:assets/logo.png",
+            "ascent": 0,
+            "height": 24,
+            "chars": [
+                "\uE200"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:tags/admin1.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:tags/a.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:tags/settler.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE002"
+            ]
+        }
+    ]
+}

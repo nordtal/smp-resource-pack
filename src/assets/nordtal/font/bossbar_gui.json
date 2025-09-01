@@ -1,0 +1,141 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/icon-compass.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE101"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/icon-flag-blue.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/icon-flag-green.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/icon-flag-red.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE104"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/icon-flag-white.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE105"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/bg/background_center_1.png",
+            "ascent": 14,
+            "height": 14,
+            "chars": [
+                "\uE106"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/bg/background_center_2.png",
+            "ascent": 14,
+            "height": 14,
+            "chars": [
+                "\uE107"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/bg/background_center_4.png",
+            "ascent": 14,
+            "height": 14,
+            "chars": [
+                "\uE108"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/bg/background_center_8.png",
+            "ascent": 14,
+            "height": 14,
+            "chars": [
+                "\uE109"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/bg/background_center_16.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\uE110"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/bg/background_end.png",
+            "ascent": 6,
+            "height": 14,
+            "chars": [
+                "\uE111"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/ascii.png",
+            "ascent": 3,
+            "height": 8,
+            "chars": [
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                " !\"#$%&'()*+,-./",
+                "0123456789:;<=>?",
+                "@ABCDEFGHIJKLMNO",
+                "PQRSTUVWXYZ[\\]^_",
+                "`abcdefghijklmno",
+                "pqrstuvwxyz{|}~\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000£\u0000\u0000ƒ",
+                "\u0000\u0000\u0000\u0000\u0000\u0000ªº\u0000\u0000¬\u0000\u0000\u0000«»",
+                "░▒▓│┤╡╢╖╕╣║╗╝╜╛┐",
+                "└┴┬├─┼╞╟╚╔╩╦╠═╬╧",
+                "╨╤╥╙╘╒╓╫╪┘┌█▄▌▐▀",
+                "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000∅∈\u0000",
+                "≡±≥≤⌠⌡÷≈°∙\u0000√ⁿ²■\u0000"
+            ]
+        },
+        {
+            "type": "space",
+            "advances": {
+                "\uF001": -1,
+                "\uF002": -2,
+                "\uF101": -3,
+                "\uF102": -4,
+                "\uF103": -5,
+                "\uF104": -6,
+                "\uF109": -8,
+                "\uF110": -16,
+                "\uF180": -80
+            }
+        }
+    ]
+}
