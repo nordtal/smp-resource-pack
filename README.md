@@ -18,3 +18,7 @@ The nordtal.eu resource pack provides assets for the game in the form of charact
 | Character       | File (link)       | Description |
 |---------------|---------------------|-------------|
 | `\uE050`| ![source](src/assets/nordtal/textures/assets/logo.png) | Nordtal long logo transparent |
+
+```shell
+echo Hi!
+```
