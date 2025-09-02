@@ -6,16 +6,7 @@
             "ascent": 0,
             "height": 24,
             "chars": [
-                "\uE050"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "nordtal:tags/admin1.png",
-            "ascent": 7,
-            "height": 7,
-            "chars": [
-                "\uE000"
+                "\uE200"
             ]
         },
         {

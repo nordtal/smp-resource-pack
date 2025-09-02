@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Deploy Resourcepack",
+            "type": "command",
+            "program": "C:\\Windows\\System32\\cmd.exe",
+            "args": [
+                "/c",
+                "robocopy",
+                "src",
+                "%TARGET%",
+                "/E",
+                "/MIR"
+            ],
+            "environment": {
+                "TARGET": "C:\\Users\\trxss\\AppData\\Roaming\\norisk\\NoRiskClientV3\\data\\profiles\\noriskclient\\new\\resourcepacks\\nordtal"
+            },
+            "workingDir": "."
+        }
+    ]
+}
