@@ -8,6 +8,14 @@
             "chars": [
                 "\uE200"
             ]
+        },{
+            "type": "bitmap",
+            "file": "nordtal:assets/logo.png",
+            "ascent": 25,
+            "height": 32,
+            "chars": [
+                "\uE201"
+            ]
         },
         {
             "type": "bitmap",
@@ -25,6 +33,33 @@
             "height": 7,
             "chars": [
                 "\uE002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:tags/citizen.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:tags/knight.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:tags/lord.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE005"
             ]
         }
     ]
