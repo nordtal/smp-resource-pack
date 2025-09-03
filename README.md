@@ -11,7 +11,7 @@ For building, just compress the contents of [`src/`](src/) into a ZIP file.
 # Complete asset overview
 
 ## Default font
-These characters are defined in [`minecraft/font/default.json`](src/assets/minecraft/font/default.json), making them availbale across the entire Minecraft client. 
+These characters are defined in [`minecraft/font/default.json`](src/assets/minecraft/font/default.json), making them availbale across the entire Minecraft client.
 
 ### Role tags (`\uE000` - `\uE00F`)
 | Char code      | File      | Char | Description |
@@ -28,8 +28,8 @@ These characters are defined in [`minecraft/font/default.json`](src/assets/minec
 | `\uE010`| ![source](src/assets/nordtal/textures/flags/other.png) |  | Other flag |
 | `\uE011`| ![source](src/assets/nordtal/textures/flags/germany.png) |  | Germany flag |
 | `\uE012`| ![source](src/assets/nordtal/textures/flags/netherlands.png) |  | Netherlands flag |
-| `\uE013`| ![source](src/assets/nordtal/textures/flags/uk.png) |  | United Kingdom flag |
-| `\uE014`| ![source](src/assets/nordtal/textures/flags/us.png) |  | United States flag |
+| `\uE013`| ![source](src/assets/nordtal/textures/flags/unitedkingdom.png) |  | United Kingdom flag |
+| `\uE014`| ![source](src/assets/nordtal/textures/flags/unitedstates.png) |  | United States flag |
 
 ### Logo assets (`\uE020` - `\uE02F`)
 | Char code      | File      | Char | Description |
