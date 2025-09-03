@@ -2,12 +2,15 @@
 The nordtal.eu resource pack provides assets for the game in the form of characters within the range of `\uE000` to `\uF8FF`. It also has some vanilla overrides.
 
 ## Setup
-Proper run configurations will be added soon. For now, using JetBrains Fleet, "Deploy Resourcepack" copies the contents of [src/](src/) into the specified `TARGET`. Only works on Windows.
-For building, just compress the contents of [src/](src/) into a ZIP file.
+Proper run configurations will be added soon. For now, using JetBrains Fleet, "Deploy Resourcepack" copies the contents of [`src/`](src/) into the specified `TARGET`. Only works on Windows. Make sure to adjust the `TARGET` variable to your needs in [`.fleet/run.json`](.fleet/run.json).
+
+If you're not using Fleet, just find another way that works best for you to copy the [`src/`](src/) content into a folder inside your game's resource pack folder.
+
+For building, just compress the contents of [`src/`](src/) into a ZIP file.
 
 # Complete asset overview
 
-# Default font
+## Default font
 These characters are defined in [`minecraft/font/default.json`](src/assets/minecraft/font/default.json), making them availbale across the entire Minecraft client. 
 
 ### Role tags (`\uE000` - `\uE00F`)
