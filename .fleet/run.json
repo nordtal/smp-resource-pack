@@ -13,7 +13,7 @@
                 "/MIR"
             ],
             "environment": {
-                "TARGET": "C:\\Users\\trxss\\AppData\\Roaming\\norisk\\NoRiskClientV3\\data\\profiles\\noriskclient\\new\\resourcepacks\\nordtal"
+                "TARGET": "C:\\Users\\trxss\\AppData\\Roaming\\ModrinthApp\\profiles\\nt\\resourcepacks\\nordtal"
             },
             "workingDir": "."
         }
