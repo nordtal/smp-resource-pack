@@ -2,37 +2,11 @@
     "providers": [
         {
             "type": "bitmap",
-            "file": "nordtal:assets/logo.png",
-            "ascent": 0,
-            "height": 24,
-            "chars": [
-                "\uE200"
-            ]
-        },{
-            "type": "bitmap",
-            "file": "nordtal:assets/logo.png",
-            "ascent": 25,
-            "height": 32,
-            "chars": [
-                "\uE201"
-            ]
-        },
-        {
-            "type": "bitmap",
-            "file": "nordtal:tags/a.png",
-            "ascent": 7,
-            "height": 7,
-            "chars": [
-                "\uE001"
-            ]
-        },
-        {
-            "type": "bitmap",
             "file": "nordtal:tags/settler.png",
             "ascent": 7,
             "height": 7,
             "chars": [
-                "\uE002"
+                "\uE000"
             ]
         },
         {
@@ -41,7 +15,7 @@
             "ascent": 7,
             "height": 7,
             "chars": [
-                "\uE003"
+                "\uE001"
             ]
         },
         {
@@ -50,7 +24,7 @@
             "ascent": 7,
             "height": 7,
             "chars": [
-                "\uE004"
+                "\uE002"
             ]
         },
         {
@@ -59,8 +33,33 @@
             "ascent": 7,
             "height": 7,
             "chars": [
-                "\uE005"
+                "\uE003"
             ]
-        }
+        },{
+            "type": "bitmap",
+            "file": "nordtal:tags/a.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": [
+                "\uE004"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "nordtal:assets/logo.png",
+            "ascent": 0,
+            "height": 24,
+            "chars": [
+                "\uE020"
+            ]
+        },{
+            "type": "bitmap",
+            "file": "nordtal:assets/logo.png",
+            "ascent": 25,
+            "height": 32,
+            "chars": [
+                "\uE021"
+            ]
+        },
+
     ]
 }
