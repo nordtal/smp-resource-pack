@@ -13,7 +13,11 @@
                 "\uF128": -128,
                 "\uFF01": 1,
                 "\uFF02": 2,
-                " ": 3
+                " ": 3,
+                "\uFF04": 4,
+                "\uFF08": 8,
+                "\uFF16": 16,
+                "\uFF32": 32
             }
         },
         {
@@ -104,6 +108,42 @@
            "height": 10,
             "chars": [
                 "\uEF00"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/icons/fblue.png",
+           "ascent": 4,
+           "height": 10,
+            "chars": [
+                "\uEF01"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/icons/fgreen.png",
+           "ascent": 4,
+           "height": 10,
+            "chars": [
+                "\uEF02"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/icons/fred.png",
+           "ascent": 4,
+           "height": 10,
+            "chars": [
+                "\uEF03"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "nordtal:ui/bossbar/icons/fwhite.png",
+           "ascent": 4,
+           "height": 10,
+            "chars": [
+                "\uEF04"
             ]
         },
         {
